@@ -62,7 +62,7 @@ I turn chaos into clarity. Whether it’s municipal planning, lab diagnostics, o
 
 ---
 <p align="center">
-<img scr="https://i.pinimg.com/736x/c1/00/6d/c1006d2ecdcc37a01c2993c9ce402246.jpg" alt="I speak data" width="100%" height="250px" />
+<img scr="https://i.pinimg.com/736x/27/2c/b8/272cb83d6b16b2c4877577af5b553d15.jpg" alt="I speak data" width="100%" height="250px" />
 </p>
 
 > 💡 _"Data doesn’t lie — but it needs a good translator."_  
